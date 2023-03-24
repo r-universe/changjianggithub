@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GWsignif"]
+	path = GWsignif
+	url = https://github.com/cran/GWsignif
+	shallow = true
+	registered = true
